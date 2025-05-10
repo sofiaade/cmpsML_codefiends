@@ -5,7 +5,7 @@
 We created a full machine learning application developed for CMPS 470/570 to classify human mood states from lifestyle metrics such as steps, sleep, and hydration.
 ---
 ### Tasks:
-##### 1. isualize signals
+##### 1. Visualize signals
 ##### 2. Preprocess signals
 ##### 3. Design representation
 ##### 4. Extract features

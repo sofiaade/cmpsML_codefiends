@@ -58,3 +58,9 @@ cmpsML_codefiends/
 ```bash
 pip install -r requirements.txt
 
+
+---
+
+## Team Members - Sofiat Adeyemi, Sarseej Shrestha
+
+

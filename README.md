@@ -54,13 +54,14 @@ cmpsML_codefiends/
 
 ## 🧪 How to Run the Project
 
+---
+
+## Team Members - Sofiat Adeyemi, Sarseej Shrestha
+
+---
 ### Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-
----
-
-## Team Members - Sofiat Adeyemi, Sarseej Shrestha
 
 

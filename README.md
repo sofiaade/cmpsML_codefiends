@@ -56,7 +56,7 @@ cmpsML_codefiends/
 
 ---
 
-## Team Members - Sofiat Adeyemi, Sarseej Shrestha
+#### Team Members - Sofiat Adeyemi, Sarseej Shrestha
 
 ---
 ### Install dependencies:
